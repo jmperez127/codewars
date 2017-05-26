@@ -1,10 +1,6 @@
 // link: https://www.codewars.com/kata/5571d9fc11526780a000011a/train/javascript
 import Thing from '../src/builderOfThings'
 const expect = require('chai').expect;
-// const assert = require('assert');
-// const chai = require('chai');
-// const expect = chai.expect;
-
 
 describe('Thing', () => {
   describe('constructor', () => {
